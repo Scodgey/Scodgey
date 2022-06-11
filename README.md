@@ -1,6 +1,10 @@
 <img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="1000" height="300" />
 <h1 align="left">Hi 👋, I'm Scott Wright</h1>
 <h3 align="center">A chartered health and safety professional (CMIOSH) and junior data analyst from Scotland</h3>
+
+I recently graduated from an full-time and fully immersive course in Data Analystics with Codeclan, Edinburgh, and I'm looking forward to applying 
+these new-found skills to data analysis in the construction sector; a sector i have worked in for the past 15 years (and continue to work in).
+
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scodgey&label=Profile%20views&color=0e75b6&style=flat" alt="scodgey" /> </p>
