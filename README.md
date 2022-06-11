@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="1000" height="100" />
+<img src="https://media1.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="1000" height="300" />
 <h1 align="left">Hi 👋, I'm Scott Wright</h1>
 <h3 align="center">A passionate health and safety professional and junior data analyst from Scotland</h3>
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
