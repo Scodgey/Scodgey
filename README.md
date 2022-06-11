@@ -1,4 +1,4 @@
-![Banner](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbhCUeltaDl8F89w2mvfFCT5rz0K46H-_Y8w&usqp=CAUhttps://www.google.com/search?q=data&tbm=isch&ved=2ahUKEwie29Cy3qX4AhUD_RoKHSDIBnsQ2-cCegQIABAA&oq=data&gs_lcp=CgNpbWcQAzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIHCAAQsQMQQzIHCAAQsQMQQzoGCAAQHhAHOgYIABAeEAg6CAgAELEDEI)
+<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
 <h1 align="center">Hi 👋, I'm Scott Wright</h1>
 <h3 align="center">A passionate health and safety professional and junior data analyst from Scotland</h3>
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
