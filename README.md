@@ -1,4 +1,4 @@
-<img align="right" alt="gif" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FqJ5evVs-_uUAAAAC%2Fcoding.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&tbnid=MwozBsUeOfn96M&vet=12ahUKEwiw4__I5aX4AhWOx4UKHQQxCLcQMyhCegQIARB2..i&docid=cR54yvEmE2nqmM&w=498&h=249&q=gifs%20for%20coding&ved=2ahUKEwiw4__I5aX4AhWOx4UKHQQxCLcQMyhCegQIARB2">
+<img align="centre" alt="gif" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fc.tenor.com%2FqJ5evVs-_uUAAAAC%2Fcoding.gif&imgrefurl=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&tbnid=MwozBsUeOfn96M&vet=12ahUKEwiw4__I5aX4AhWOx4UKHQQxCLcQMyhCegQIARB2..i&docid=cR54yvEmE2nqmM&w=498&h=249&q=gifs%20for%20coding&ved=2ahUKEwiw4__I5aX4AhWOx4UKHQQxCLcQMyhCegQIARB2">
 <h1 align="left">Hi 👋, I'm Scott Wright</h1>
 <h3 align="center">A passionate health and safety professional and junior data analyst from Scotland</h3>
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
