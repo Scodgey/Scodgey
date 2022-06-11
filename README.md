@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Microsoft Power Bi**
 
-- 👯 I’m looking to collaborate on **Health & Safety & Construction Project Data**
+- 👯 I’m looking to collaborate on **Health & Safety & Construction Project Related Data Analytics**
 
 - 💬 Ask me about **R Studio & GGPLOT2**
 
