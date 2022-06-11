@@ -13,10 +13,9 @@
 
 - ⚡ Fun fact **I'm a huge football fan and love playing golf.**
 
-[linkedin][linkedin]
 
 <h3 align="left">Connect with me:</h3>
-[linkedin]: www.linkedin.com/in/scott-wright-bengdipnebosh-0ba1958b
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/scott-wright-bengdipnebosh-0ba1958b)
 <p align="left">
 </p>
 
