@@ -14,6 +14,7 @@
 - ⚡ Fun fact **I'm a huge football fan and love playing golf.**
 
 <h3 align="left">Connect with me:</h3>
+[ linkedIn ]: https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BgY8%2BeORdRoGroHNk7ihNHQ%3D%3D
 <p align="left">
 </p>
 
