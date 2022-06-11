@@ -1,4 +1,4 @@
-[![MasterHead]
+[![Banner]([https://res.cloudinary.com/jlengstorf/image/upload/f_auto,g_auto/v1593579116/jason.af/og-image.jpg](https://www.google.com/search?q=data&tbm=isch&ved=2ahUKEwie29Cy3qX4AhUD_RoKHSDIBnsQ2-cCegQIABAA&oq=data&gs_lcp=CgNpbWcQAzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIECAAQQzIHCAAQsQMQQzIHCAAQsQMQQzoGCAAQHhAHOgYIABAeEAg6CAgAELEDEIMBOgQIABADOggIABCABBCxAzoFCAAQgARQ0whYqQtg9w9oAHAAeACAAUqIAcsCkgEBNZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=2bekYt6KJYP6a6CQm9gH&bih=789&biw=1440&rlz=1C5CHFA_enGB945GB945))]
 <h1 align="center">Hi 👋, I'm Scott Wright</h1>
 <h3 align="center">A passionate health and safety professional and junior data analyst from Scotland</h3>
 <img align="right" alt="gif" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
