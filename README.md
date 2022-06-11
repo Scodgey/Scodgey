@@ -15,7 +15,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/scott-wright-bengdipnebosh-0ba1958b)
+[LinkedIn](www.linkedin.com/in/scott-wright-bengdipnebosh-0ba1958b)
 <p align="left">
 </p>
 
