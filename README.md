@@ -16,7 +16,7 @@
 [linkedin].[linkedin]
 
 <h3 align="left">Connect with me:</h3>
-[linkedIn]: www.linkedin.com/in/scott-wright-bengdipnebosh-0ba1958b
+[linkedin]: www.linkedin.com/in/scott-wright-bengdipnebosh-0ba1958b
 <p align="left">
 </p>
 
